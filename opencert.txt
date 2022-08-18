@@ -4,8 +4,7 @@
     "id": "61df1dc2-e28c-4d60-b286-212a676b00a0:string:VLC-IBFIT47-22-0655 ILYAS SHALIHIN BIN IDRUS",
     "name": "844ab516-0ee7-4666-a889-71c13266c7a0:string:HFI UX2 - CERTIFIED DIGITAL PERSUASION ANALYST (CDPA)-P211006MIZ",
     "recipient": {
-      "name": "b430a03d-3283-4fc0-b148-a5b49572a050:string:ILYAS SHALIHIN BIN IDRUS",
-      "email": "07924043-df1b-43cd-84c1-08c29bcddc6d:string:ILYASSHALIHIN@HOTMAIL.COM"
+      "name": "b430a03d-3283-4fc0-b148-a5b49572a050:string:ILYAS SHALIHIN BIN IDRUS"
     },
     "issuedOn": "4ee8c42c-fe5e-481e-9c06-1f10368fb7e0:string:2022-08-18T08:00:00+08:00",
     "issuers": [
@@ -57,5 +56,11 @@
       "verificationMethod": "did:ethr:0xde7518e9fc310a4e5c4e7ebb0502883f6abc103b#controller",
       "signature": "0xc2292dd121c1b280196ad6d77fb7021568376c64577afbfe19cc1ba9b718818676c1d94770120c9390740b911e4afed289a58050a75f880a001f29957a69a4211b"
     }
-  ]
+  ],
+  "privacy": {
+    "obfuscatedData": [
+      "e472efd83b4d260594481b8c525a38c17cc6753cf59f1abe2d99fd5bbf0f377b",
+      "43c72970d4a16ea57042ae779540992cda56f2230c9f6e08b0ab9e2dbd726a2c"
+    ]
+  }
 }
